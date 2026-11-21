@@ -1,0 +1,4 @@
+version=1
+title=Viewpoint 简体中文汉化
+tags=Chinese;Translation;UI;QoL
+visibility=public

@@ -1,0 +1,13 @@
+# build outputs
+build/
+java/classes/
+java/classes_*/
+**/*.class
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 临时
+*.log
+*.bak

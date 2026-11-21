@@ -1,0 +1,9 @@
+name=Viewpoint 简体中文汉化
+id=ViewpointCN
+author=you
+description=Viewpoint 第一人称模组的全量简体中文汉化:设置窗口、页面标题、键位、着色器选项、悬停说明全部中文化,并注入 CJK 字体。适配 0.1.7 / Build 42.22.2。需要 Viewpoint 和 ZombieBuddy。 <LINE> <LINE> 交流群:1103776514
+versionMin=42.0.0
+poster=poster.png
+require=\ZombieBuddy
+javaJarFile=media/java/client/ViewpointCN.jar
+javaPkgName=viewpointcn
